@@ -39,9 +39,9 @@ The program uses four classes. **Runner**, **Menu**, **Parser** and **FourSquare
 ### Running the program from the command line:
 Navigate to the directory containing the program files...
 	
-	javac *.java
+	>javac *.java
 	
-	java Runner 
+	>java Runner 
 
 ### Other files:
 Matrix.java is a demo class with static methods for testing 2D array operations.
